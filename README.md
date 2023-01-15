@@ -2,4 +2,4 @@
 
 ### Estou aprendendo Python e  Html
 
-###Sou novo por aqui. Quem puder me dar uma força ficarei muito feliz!! 
+###  Sou novo por aqui, quem puder me dar uma força ficarei muito feliz!!!
