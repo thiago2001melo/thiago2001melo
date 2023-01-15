@@ -1,6 +1,6 @@
 ###  Olá eu sou Thiago Melo  🤙
 
-### Estou aprendendo Python, Html e CSS
+### Estou aprendendo Html, CSS e Python
 
 ###  Sou novo por aqui, quem puder me dar uma força ficarei muito feliz!!!
 
